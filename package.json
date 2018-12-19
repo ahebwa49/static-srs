@@ -1,5 +1,5 @@
 {
-  "name": "static-fdb",
+  "name": "static-srs",
   "version": "1.0.0",
   "description": "# Getting Started",
   "main": "index.js",
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahebwa49/static-fdb.git"
+    "url": "git+https://github.com/ahebwa49/static-srs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ahebwa49/static-fdb/issues"
+    "url": "https://github.com/ahebwa49/static-srs/issues"
   },
-  "homepage": "https://github.com/ahebwa49/static-fdb#readme"
+  "homepage": "https://github.com/ahebwa49/static-srs#readme"
 }
