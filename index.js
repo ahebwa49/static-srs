@@ -24,14 +24,14 @@ app.get('/', (req, res) => {
 });
 
 
-/*app.get('/', (req, res) => {
+app.get('/login', (req, res) => {
 
-  res.sendFile(__dirname + '/public/index.html', (err) => {
+  res.sendFile(__dirname + '/public/login.html', (err) => {
     if (err){
       res.status(500).send(err);
     }
   });
-}); */
+});
 
 
 /**
