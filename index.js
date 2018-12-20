@@ -35,7 +35,7 @@ app.get('/login', (req, res) => {
 
 app.get('/admin', (req, res) => {
 
-  res.sendFile(__dirname + '/public/activation_portal.html', (err) => {
+  res.sendFile(__dirname + '/admin.html', (err) => {
     if (err){
       res.status(500).send(err);
     }
